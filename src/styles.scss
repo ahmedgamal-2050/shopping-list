@@ -14,4 +14,6 @@ body {
     font-family: $family;
     font-size: $font-size;
     color: $text;
+    width: 100%;
+    overflow-x: hidden;
 }
